@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_avatrn.mk
+    $(LOCAL_DIR)/twrp_avatrn.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_avatrn-user \
-    omni_avatrn-userdebug \
-    omni_avatrn-eng
+    twrp_avatrn-user \
+    twrp_avatrn-userdebug \
+    twrp_avatrn-eng
